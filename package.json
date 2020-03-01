@@ -1,0 +1,28 @@
+{
+  "name": "YouTube-Desktop-App",
+  "version": "1.0.0",
+  "description": "YouTube App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Marco1223",
+  "devDependencies": {
+    "discord-rpc": "^3.1.0",
+    "electron": "^6.0.1",
+    "nexe": "^3.3.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request-promise": "^4.2.5",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord-rich-presence": "0.0.8",
+    "discord-rpc": "^3.1.0",
+    "electron": "^6.0.1",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "request-promise": "^4.2.5"
+  }
+}
